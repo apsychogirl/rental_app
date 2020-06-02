@@ -1,0 +1,19 @@
+.select-container {
+  display: flex;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 500px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-flex: 1;
+  margin-bottom: 10px;
+}
+
+.select-box {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+}
